@@ -1,0 +1,31 @@
+.row {
+    margin-bottom: 5%;
+}
+
+h1 {
+    margin-right: 10%;
+    font-family: "Roboto Bk", sans-serif;
+    font-size: 26px;
+    color: lightskyblue;
+}
+
+hr {
+    overflow: visible; /* For IE */
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    /*border-color: #ed2024;*/
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+}
+hr:before { /* Not really supposed to work, but does */
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+    /*border-color: #ed2024;*/
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+}
