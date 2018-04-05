@@ -1,5 +1,5 @@
 <div class="row">
-    <div class="col-xs-12 col-sm-12 col-lg-2" style="border-right: 1px solid black"><a name="ourbackground"><h1>Our Background</h1></a></div>
+    <div class="col-xs-12 col-sm-12 col-lg-2" id="ourbackground" style="border-right: 1px solid black"><h1>Our Background</h1></div>
     <div class="col-xs-12 col-sm-12 col-lg-6">
 
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquet neque augue, et auctor felis auctor quis.
