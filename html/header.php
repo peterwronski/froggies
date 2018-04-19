@@ -1,5 +1,5 @@
 <div class="container">
-    <nav class="navbar navbar-inverse">
+    <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="container-fluid">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar9">
@@ -19,14 +19,19 @@
                 <ul class="nav navbar-nav navbar-left">
                     <li><a href="#ourbackground">Our Background</a></li>
                     <li><a href="#ourwork">Our Work</a></li>
+
                 </ul>
+
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="#">Services</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="https://www.facebook.com/froggiesdining/" class="fa fa-facebook"></a></li>
+                    <li><a href="https://www.instagram.com/froggiesdining/" class="fa fa-camera-retro fa-lg"></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCOByDldwPT53ZjILfaBI_9A" class="fa fa-youtube fa-lg"></a></li>
                 </ul>
             </div>
             <!--/.nav-collapse -->
         </div>
         <!--/.container-fluid -->
     </nav>
-</div>
+
