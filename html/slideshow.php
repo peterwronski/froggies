@@ -13,6 +13,9 @@
                 <div><img src="../images/img3.png" width="100%"/></div>
                 <div><img src="../images/img4.png" width="100%"/></div>
                 <div><img src="../images/img5.png" width="100%"/></div>
+                <div><img src="../images/img6.png" width="100%"/></div>
+                <div><img src="../images/img7.png" width="100%"/></div>
+                <div><img src="../images/img8.png" width="100%"/></div>
             </div>
 
 
