@@ -23,7 +23,7 @@ function isScrolledIntoView(elem) {
     if(elem.data('offset') != undefined) {
         elemOffset = elem.data('offset');
     }
-    var elemTop = $(elem).offset().top;
+    var elemTop = $(elem).offset().top-200;
     var elemBottom = elemTop + $(elem).height();
 
     if(elemOffset != 0) { // custom offset is updated based on scrolling direction
