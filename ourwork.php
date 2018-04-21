@@ -21,7 +21,7 @@
 
     <div class="col-xs-12 col-sm-12 col-lg-4">
 
-        <img src="../images/img3.png" width="100%"/>
+        <img src="images/img3.png" width="100%"/>
 
     </div>
 </div>

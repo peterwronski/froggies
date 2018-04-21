@@ -11,7 +11,7 @@
             </div>
 
             <div class="brand-centered">
-                <a class="navbar-brand" href="www.froggiesdining.co.uk"><img style="margin-right: 10px; padding: 0;"  src="../images/web_logo2_long.png" height="100px" alt="Froggies Dining"/>
+                <a class="navbar-brand" href="www.froggiesdining.co.uk"><img style="margin-right: 10px; padding: 0;" src="images/web_logo2_long.png" height="100px" alt="Froggies Dining"/>
                 </a>
             </div>
 
