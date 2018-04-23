@@ -2,15 +2,6 @@ p {
     font-family: 'Roboto', sans-serif;
 }
 
-body {
-    /*padding-top: 50px;
-    background: url('../images/bg.jpg') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;*/
-
-}
 
 html,body
 {
@@ -19,10 +10,6 @@ html,body
     margin: 0px;
     padding: 0px;
     overflow-x: hidden;
-}
-
-.container {
-    background-color: rgba(255, 255, 255, 0.7);
 }
 
 .row {
