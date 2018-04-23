@@ -3,7 +3,11 @@ p {
 }
 
 
+html,body
+{
 
+    overflow-x: hidden;
+}
 
 .row {
     margin-bottom: 5%;
