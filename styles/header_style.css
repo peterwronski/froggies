@@ -30,7 +30,7 @@
 }
 
 
-/*.navbar-alignit .navbar-header {
+.navbar-alignit .navbar-header {
     -webkit-transform-style: preserve-3d;
     -moz-transform-style: preserve-3d;
     transform-style: preserve-3d;
@@ -41,11 +41,9 @@
     display: block;
     position: relative;
     height: auto;
-    transform: translate(0,-50%);
-    margin-right: 15px;
-    margin-left: 15px;
+
 }
-*/
+
 nav.navbar {
     width: inherit;
     margin-left:auto;
